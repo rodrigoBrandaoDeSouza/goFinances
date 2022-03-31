@@ -1,9 +1,28 @@
-## GOFinances APP
+	🚧  React Select 🚀 Em construção...  🚧
 
-## ☕APP Desenvolvido durante o curso da Rocket Seat
 
-# Oportunidade de aprendizado incrível, temas muito relevantes abordados com qualidade ímpar
+# GoFinances
 
-## Fica aqui a recomendação
+GoFinances é um aplicativo que está sendo desenvolvido em acompanhamento a trilha React Native da @rocketseat.
 
-[![ROCKETSEAT]()](https://www.rocketseat.com.br/ignite)
+## Ambiente necessário
+
+É necessário algum dispositivo (Android ou IOS) para a execução, podem ser inclusive emulador para Windows.
+
+```bash
+expo start
+```
+
+### Features
+
+- [x] Cadastro de Dashboard de contas
+- [x] Cadastro de lista de Transações
+- [ ] Cadastro de transações
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
