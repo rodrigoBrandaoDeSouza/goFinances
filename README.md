@@ -2,6 +2,8 @@
 
 ## ☕APP Desenvolvido durante o curso da Rocket Seat
 
-#Fica aqui a recomendação 
+# Oportunidade de aprendizado incrível, temas muito relevantes abordados com qualidade ímpar
 
-[![ROCKETSEAT](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://www.rocketseat.com.br/ignite)
+## Fica aqui a recomendação
+
+[![ROCKETSEAT]()](https://www.rocketseat.com.br/ignite)
