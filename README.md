@@ -1,7 +1,7 @@
 # 🚧  React Select 🚀 Em construção...  🚧
 
 
-# GoFinances
+## GoFinances
 
 GoFinances é um aplicativo que está sendo desenvolvido em acompanhamento a trilha React Native da @rocketseat.
 
